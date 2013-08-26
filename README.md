@@ -1,4 +1,4 @@
 mscthesis
 =========
 
-Code examples work related to my MSc thesis
+Code examples and other work related to my MSc thesis
