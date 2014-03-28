@@ -1,4 +1,4 @@
 mscthesis
 =========
 
-Code examples and other work related to my MSc thesis
+Deconvolution algorithms and matlab code used for acoustical beamforming.
